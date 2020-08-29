@@ -7,3 +7,4 @@
 * You can have look in to my portfolio and dont get bored enjoy the music click the play button.
 * This portfolio made use of JQuery and Bootstrap and carousel etc.
 ![](/2020-08-29%20(12).png)
+![](/2020-08-29%20(11).png)
